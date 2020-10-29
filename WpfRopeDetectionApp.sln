@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfRopeDetectionApp", "WpfRopeDetectionApp\WpfRopeDetectionApp.csproj", "{9BAC0023-56B6-45D8-ACA0-AEEFD0415FC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfRopeDetectionModel", "WpfRopeDetectionModel\WpfRopeDetectionModel.csproj", "{293BFB63-34A5-415C-B09D-D2F0D9BBBB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopeDetectionConsoleApp", "RopeDetectionConsoleApp\RopeDetectionConsoleApp.csproj", "{574908BF-BB2B-43A5-B3EE-32232E21832D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAC0023-56B6-45D8-ACA0-AEEFD0415FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAC0023-56B6-45D8-ACA0-AEEFD0415FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAC0023-56B6-45D8-ACA0-AEEFD0415FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAC0023-56B6-45D8-ACA0-AEEFD0415FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293BFB63-34A5-415C-B09D-D2F0D9BBBB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293BFB63-34A5-415C-B09D-D2F0D9BBBB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293BFB63-34A5-415C-B09D-D2F0D9BBBB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293BFB63-34A5-415C-B09D-D2F0D9BBBB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574908BF-BB2B-43A5-B3EE-32232E21832D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574908BF-BB2B-43A5-B3EE-32232E21832D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574908BF-BB2B-43A5-B3EE-32232E21832D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574908BF-BB2B-43A5-B3EE-32232E21832D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C02C11B-F6D9-422F-8812-0C937DE056A3}
+	EndGlobalSection
+EndGlobal
